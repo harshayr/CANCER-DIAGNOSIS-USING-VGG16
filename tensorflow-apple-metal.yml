@@ -1,0 +1,30 @@
+name: tensorflow
+Channels:
+  - apple
+  - conda-forge
+ 
+dependencies:
+    - python=3.11.4
+    - pip>=22
+    - jupyter
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - ipykernel
+    - pip:
+
+        - tensorflow-macos
+        - tensorflow-metal
+        - bayesian-optimization
+        - gym
+        - kaggle
+        

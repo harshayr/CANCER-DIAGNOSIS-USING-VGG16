@@ -1,0 +1,5 @@
+[2023-11-18 15:57:21,944] 22 root INFO Data ingestion stared 
+[2023-11-18 15:57:22,011] 31 root INFO Data ingestion complete and returns  train_data, val_data
+[2023-11-18 15:57:22,011] 13 root INFO Model building started 
+[2023-11-18 15:57:23,353] 52 root INFO Model building completed and returns model 
+[2023-11-18 15:57:23,439] 41 root INFO Model compiling done
